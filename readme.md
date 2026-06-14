@@ -1,6 +1,6 @@
 
 markdown
-# AI Chatbot — Desktop Assistant
+# AI Chatbot
 
 A feature-rich AI chatbot built with Google Gemini and Python Tkinter.
 Supports voice output, document QA, multilingual conversations, 
