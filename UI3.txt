@@ -1,8 +1,0 @@
-Task: To make the chat bot interactive by adding sysmtem prompt dynamically.
-
-Context:
-- User UI.py , boty.py files , keep the changes in the files to minimal.
-- Add a menu bar where i can upload or choose the system prompt.
-- -On loadint the system prompt file reset the conversation history..
-- Rest the Display window.
-- Update the sysystem prompt in the chatbot.
