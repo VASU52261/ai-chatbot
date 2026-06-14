@@ -1,5 +1,5 @@
 
-markdown
+
 # AI Chatbot
 
 A feature-rich AI chatbot built with Google Gemini and Python Tkinter.
@@ -50,7 +50,7 @@ ai-chatbot/
 ### Installation
 
 ```bash
-git clone https://github.com/VASU52261/ai-chatbot.git
+git clone 
 cd ai-chatbot
 pip install -r requirements.txt
 ```
