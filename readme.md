@@ -8,7 +8,6 @@ dark/light themes, and chat history management.
 
 ## Features
 
-- Real-time streaming responses from Gemini 2.5 Flash
 - Text-to-speech voice output with pause, resume, stop controls
 - Document QA — upload PDF, DOCX, TXT and ask questions about it
 - Dynamic system prompt loading — change bot behavior at runtime
@@ -18,6 +17,7 @@ dark/light themes, and chat history management.
 - Multilingual support — responds in Kannada, Tamil, Telugu, Hindi and more
 - Message avatars and timestamps on every message
 - Typing indicator while bot is thinking
+- Real-time streaming responses from Gemini 2.5 Flash
 - Character counter on input box
 - Font size and font family controls
 - Status bar showing model name and message count
