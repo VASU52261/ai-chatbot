@@ -33,11 +33,11 @@ dark/light themes, and chat history management.
 
 ## Project Structure
 ai-chatbot/
-├── UI.py # Main chatbot UI and logic
-├── bot.py # Terminal chatbot version
-├── tts.py # Text to speech manager
-├── doc_process.py # Document text extraction
-├── requirements.txt # Python dependencies
+├── UI.py 
+├── bot.py 
+├── tts.py 
+├── doc_process.py 
+├── requirements.txt 
 └── README.md
 
 
