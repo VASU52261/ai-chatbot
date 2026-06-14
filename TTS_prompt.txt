@@ -1,0 +1,40 @@
+Task: To make this chatbot application to text to speech enabled.
+
+Context:
+
+-  Create a new file ttx.py for the TTS integration.
+
+Features:
+
+Feature1: Autometically generate the audio from the text 
+
+ Gemini responce back 
+ Genreate the speech audio 
+ auto play the audio
+
+Feature 2: Voice control in UI.py file
+Add the UI control
+    - Voice toggle button  
+    - Pause
+    - Resume
+    - Stop
+    
+Feature 3: Interuption
+- If bot is speaking and user gives any input then the bot should stop speaking and listen to the user
+- Start the latest response give by th user
+
+Feature 4: Save the file
+- Save the audio file to the local system
+- Auto save the audio file on the folder voice , withtime stamp for each file 
+- Make is has caching so that i can play the audio file directly without calling API
+
+Feature 5: Human like Voice
+ - Human like voince
+ - English + Indian language
+
+Folder Structure:
+- bot.py - main entry point for chatbot
+- UI.py - is the UI for the chatbot
+- tts.py - module for text to speech integration
+- requirements.txt
+- readme.md

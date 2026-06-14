@@ -1,0 +1,15 @@
+task: To build the chatbot 
+
+
+Context:
+- Create  and use conda environemnt called "iisc_env" with python 3.10
+- User dotenv utility to load the api key
+- on the user making enrty called exit and quit and stop and end the bot should exit
+- On user asking any ohter questions it should work.
+
+Refrence:
+Folder structurce:
+
+- bot.py
+- readme.md
+- requirements.tx

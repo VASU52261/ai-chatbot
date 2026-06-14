@@ -1,0 +1,7 @@
+Task : to Improve the UI of the chatbot
+
+Context:
+- The code is in UI.py
+- The UI is very basic and I want to make it more user friendly.
+- I need + and - buttons on the side so that in can increase the font size is the output 
+- I want 4 optins to change the font style in the UI with a drop down

@@ -1,0 +1,18 @@
+ 
+
+ Task: TO create a documnet Q&A chatbot.
+
+ Context:
+ - Use bot.py , UI.py to create the chatbot.
+ - Lae there be a option in UI to upload a document.
+ - These document can be .txt, .pdf, .html,.docx. mb file.
+ - Create a document pre procssor script to hand it  and listen the extentions.
+ - User the libraries  mupdf, butifulsoop, and any other dependecy for document proccessing
+
+
+ Folder arc:
+ - doc_procees.py : for document proccessing.
+ -  UI.py : for UI  to upload the document.
+ - bot.py : for chatbot logic.
+ - readme.md : for instructions.
+ - requirements.txt : for dependencies

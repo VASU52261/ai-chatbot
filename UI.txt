@@ -1,0 +1,19 @@
+Task: I want to create a UI for the chatbot
+
+Context: 
+- The code is in bot.py
+- Use tkinker for UI
+- Create an interface lik in the image UI.jpeg
+- Diplay the response in the chat window
+-  Let the user query be in black colour
+- Let the bot response in maroon colour.
+- AFter evey conversation we need a empty linke.
+- on opeing the UI ler it be 50% width and 50% height on th screen.
+- peach are is the Diplay area were the chat will be shown.
+
+Folder arch:
+-bot.py : main chat logive
+- UI.py : for tkinker UI
+- UI.jpeg : for refrence image
+- readme.md : for instructions
+- requirements.txt : for dependencies

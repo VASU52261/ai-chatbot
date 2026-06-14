@@ -1,0 +1,34 @@
+Task : Make this chatbot application to  voice enabled and respond back voice to me.
+
+
+Context: Make the application responsive
+- Create voice.py file for voice assistent application 
+    - listen for user voice 
+    - convert it to text
+    - send it to the chatbot
+    - get the response from the chatbot
+    - convert it to speech
+    - play it to the user
+- Add UI for the voice assistant 
+- Add voice control to the chatbot
+- Make the chatbot voice responsive
+    - Human like voice
+    - English + Indian language
+
+- Features1:
+ - in UI we need speak button to start the voice assistant 
+ - When i want to speak , i will click the speak button and talk 
+ - once i stop talking , give me the response in voice. do not show it in text
+ - - Add stop button to stop the voice assistant 
+ 
+ Feature 2: Human like Voice
+ - Human like Voice - male voice
+ - English + Indian language
+
+Folder Structure:
+- bot.py - main entry point for chatbot
+- UI.py - is the UI for the chatbot
+- voice.py - module for voice assistant
+- requirements.txt
+- readme.md
+

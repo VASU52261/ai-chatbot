@@ -1,0 +1,6 @@
+task: I want to create a short memory for my chatbot
+
+Context: 
+- the code is in bot.py
+- The chatbot should remeber the last 10 messages
+-  The chat shoulb be able to answer questions bassed on the last 10 messages.
